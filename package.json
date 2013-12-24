@@ -1,0 +1,14 @@
+{
+  "name": "lineq",
+  "version": "0.0.1rc1",
+  "description": "Wrapper for a line equation by two given points",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap tests.js"
+  },
+  "author": "Emanuel Kluge",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "tap": "~0.4.6"
+  }
+}
