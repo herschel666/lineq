@@ -1,10 +1,10 @@
 Lineq
 =====
-Wrapper for a line equation by two given points.
+Wrapper for a line equation by two given points. For Browser- and Server-side usage due to Universal Module Definition.
 
 ## Example
 
-	// creating an instance
+	// creating an instance (CommonJS)
 	var line = require('lineq')([3, 3], [12, 0]);
 	
 	// getting the line's slope
@@ -29,6 +29,8 @@ Wrapper for a line equation by two given points.
 
 ## Changelog
 
+- **v0.0.1rc2**
+	- Integration of the Universal Module Definition
 - **v0.0.1rc1**
 	- The first release
 

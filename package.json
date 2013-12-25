@@ -1,6 +1,6 @@
 {
   "name": "lineq",
-  "version": "0.0.1rc1",
+  "version": "0.0.1rc2",
   "description": "Wrapper for a line equation by two given points",
   "main": "index.js",
   "scripts": {
